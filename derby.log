@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Apr 18 17:11:58 IST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0187-942b-eb27-00000d2b5130 
+on database directory memory:/Users/rishabh.mishra/Downloads/course-api-data/testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/Users/rishabh.mishra/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=OpenLogic-OpenJDK
+java.runtime.version=1.8.0_262-internal-b10
+user.dir=/Users/rishabh.mishra/Downloads/course-api-data
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
